@@ -3,7 +3,7 @@ Este repositorio contiene el firmware para la Estación Meteorológica Experimen
 
 Desarrollado por el Dr. Eduardo Sanabria.
 
- DOI: 10.5281/zenodo.20132949
+[ DOI: 10.5281/zenodo.20132949](https://doi.org/10.5281/zenodo.20132949)
 
 📝 Descripción
 El sistema utiliza un microcontrolador ESP8266 para recolectar variables climáticas críticas y enviarlas vía Wi-Fi a un servidor en la nube. Está diseñado para aplicaciones de ecología experimental, permitiendo el seguimiento remoto de condiciones microclimáticas.
